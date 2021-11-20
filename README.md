@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @vietnguyengit
-- 👀 I’m interested in React Native
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Web and Mobile App development projects
+- 👋 Hi, I’m Viet Nguyen
+- 👀 I’m interested in React/React Native/NodeJS
 
 <!---
 vietnguyengit/vietnguyengit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
