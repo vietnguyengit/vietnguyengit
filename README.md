@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Viet Nguyen.
-- 🧑‍💼 I'm currently working for The Salvation Army Australia.
 - 📖 I graduated from Swinburne University of Technology (Computer Science) and TasTAFE.
 - 👀 I’m interested in React/React Native/NodeJS/Java/ML algorithms.
 
